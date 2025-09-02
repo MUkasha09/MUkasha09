@@ -31,15 +31,15 @@
 
 ## 🏢 Working at
 
-![Freelance](https://img.shields.io/badge/Freelance-00A86B?style=for-the-badge\&logo=upwork\&logoColor=white)
+![Study Vault](https://img.shields.io/badge/Study%20Vault-1E90FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ukasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
+![Ukasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUkasha09\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUkasha09\&layout=compact\&theme=radical)
 
 ---
 
