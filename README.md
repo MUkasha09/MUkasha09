@@ -1,6 +1,6 @@
 # Muhammad Ukasha
 
-**AI/ML Engineer | NLP & Deep Learning Enthusiast | Turning Data into Intelligence**
+**Computer System Engineer| AI/ML Engineer | NLP & Deep Learning | Turning Data into Intelligence**
 
 ---
 
