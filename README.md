@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github.com/MUkasha09/studyvalut/blob/master/logo.png?raw=true" alt="StudyVault Logo" height="60"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://<your-path-to-elevvo-logo>.png" alt="Elevvo Logo" height="60"/>
+  <img src="https://www.google.com/imgres?q=elevvo%20pathway&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D0BAQGtrTXeYsuxSA%2Fcompany-logo_200_200%2FB4DZgN2oTFH0AM-%2F0%2F1752579082791%2Felevvopaths_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3D3Divmy0FQ2rVDkRlEqmW8ZulNGEdPrt-3e0mHGYda58&imgrefurl=https%3A%2F%2Feg.linkedin.com%2Fcompany%2Felevvopaths&docid=57z7M8vTA0PVHM&tbnid=lRd_XGdp5UlpaM&vet=12ahUKEwiEx9evsvmPAxWaRfEDHfE3JKAQM3oECBUQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwiEx9evsvmPAxWaRfEDHfE3JKAQM3oECBUQAA" alt="Elevvo Logo" height="60"/>
 </p>
 
 ---
