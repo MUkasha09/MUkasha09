@@ -33,7 +33,7 @@
 
 ## 🏢 Working at
 
-![Study Vault](https://img.shields.io/badge/Study%20Vault-1E90FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)
+![Study Vault](https://github.com/MUkasha09/studyvalut/blob/master/logo.png)
 
 ---
 
