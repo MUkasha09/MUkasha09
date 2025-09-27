@@ -32,7 +32,9 @@
 ## 🏢 Working At
 
 <p align="center">
-  <img src="https://github.com/MUkasha09/studyvalut/blob/master/logo.png?raw=true" alt="Study Vault Logo" height="60"/>
+  <img src="https://github.com/MUkasha09/studyvalut/blob/master/logo.png?raw=true" alt="StudyVault Logo" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://<your-path-to-elevvo-logo>.png" alt="Elevvo Logo" height="60"/>
 </p>
 
 ---
