@@ -33,7 +33,7 @@
 
 ## 🏢 Working at
 
-![Study Vault](https://studyvalut.vercel.app/index.html)
+![Study Vault](https://github.com/MUkasha09/studyvalut/blob/master/logo.png?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
